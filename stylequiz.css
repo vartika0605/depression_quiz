@@ -11,7 +11,7 @@ body {
   background:#E5E7EA;
 }
 .quiz{
-background: white;
+background: #E5E7EA;
   display: grid;
   grid-template-rows: 60px auto;
   width: 70%;
